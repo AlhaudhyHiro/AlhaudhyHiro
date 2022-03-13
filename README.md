@@ -3,7 +3,7 @@
 <h1 align="center">Wellcome It's Me, Mohamad Alhaudhy Rizky</h1>
 <h3 align="center">Focus At Technical Engineering And Hardware Enthusiast</h3>
 
-- 🔭 I’m currently working on PT Arfina Multisolusi Globalindo [As a Technical Support](www.amigo.co.id)
+- 🔭 I’m currently working on PT Arfina Multisolusi Globalindo [As a Technical Support](https://amigo.co.id/)
 
 - 📫 How to reach me **haudhyr@gmail.com / support@amigo.co.id**
 
